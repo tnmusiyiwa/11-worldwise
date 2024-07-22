@@ -37,28 +37,52 @@
       "id": 98443197
     },
     {
-      "cityName": "Barcelona",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "cityName": "Harare",
+      "country": "Zimbabwe",
+      "date": "2024-07-20T14:31:21.898Z",
+      "emoji": "🇿🇼",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "-17.9561654985462",
+        "lng": "31.113281250000004"
       },
-      "id": 178067515
+      "id": 98443198
     },
     {
-      "cityName": "Dortmund",
-      "country": "Germany",
-      "emoji": "🇩🇪",
-      "date": "2027-02-12T09:24:11.863Z",
-      "notes": "Amazing 😃",
+      "cityName": "Pretoria",
+      "country": "South Africa",
+      "date": "2024-07-20T14:40:43.453Z",
+      "emoji": "🇿🇦",
+      "notes": "",
       "position": {
-        "lat": 52.53586782505711,
-        "lng": 13.376933665713324
+        "lat": "-25.85985904916085",
+        "lng": "28.234863281250004"
       },
-      "id": 984431979
+      "id": 98443200
+    },
+    {
+      "cityName": "Gaborone",
+      "country": "Botswana",
+      "date": "2024-07-20T14:42:57.297Z",
+      "emoji": "🇧🇼",
+      "notes": "",
+      "position": {
+        "lat": "-24.74518472886426",
+        "lng": "25.86181640625"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Western Cape",
+      "country": "South Africa",
+      "date": "2024-07-21T12:17:15.096Z",
+      "emoji": "🇿🇦",
+      "notes": "",
+      "position": {
+        "lat": "-34.15458081437825",
+        "lng": "18.105468750000004"
+      },
+      "id": 98443202
     }
   ]
 }
